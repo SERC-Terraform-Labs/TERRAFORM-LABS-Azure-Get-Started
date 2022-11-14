@@ -1,3 +1,3 @@
-# TERRAFORM LABS Starter Template
+# Terraform Labs - Azure Get Started
 
-Starter template for creating Terraform labs. 
+Follow lab instrcutions at https://developer.hashicorp.com/terraform/tutorials/azure-get-started
